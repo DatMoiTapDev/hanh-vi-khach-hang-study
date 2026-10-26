@@ -2,7 +2,7 @@
 
 Website học tập bằng tiếng Việt theo bài giảng **HÀNH VI KH-HK3-2026 – Full** gồm 302 slide, 7 chương. Mục tiêu: hiểu khái niệm, phân tích hành vi mua và vận dụng vào các quyết định marketing.
 
-**[Mở website học tập](https://hanh-vi-khach-hang-study-2026.calmgnome10.chatgpt.site/)**
+**[Mở website học tập](https://datmoitapdev.github.io/hanh-vi-khach-hang-study/)**
 
 ## Nội dung
 
@@ -36,7 +36,7 @@ Mở `http://localhost:8080`. Trên hệ thống khác có thể dùng `python` 
 
 ## Đăng bằng GitHub Pages
 
-Repository có workflow `.github/workflows/pages.yml`. Trong **Settings → Pages → Build and deployment**, chọn **GitHub Actions**. Workflow triển khai thư mục `dist` sau mỗi lần đẩy lên `main`; có thể chạy thủ công tại tab **Actions**.
+GitHub Pages đã được cấu hình dùng **GitHub Actions** với workflow `.github/workflows/pages.yml`. Workflow triển khai thư mục `dist` sau mỗi lần đẩy lên `main`; có thể chạy thủ công tại tab **Actions**.
 
 ## Cấu trúc
 
